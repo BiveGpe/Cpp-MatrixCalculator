@@ -1,0 +1,3 @@
+D:/Backup/Projekty/Szkola/PP/Matrix_Calculator/cmake-build-debug/CMakeFiles/Matrix_Calculator.dir
+D:/Backup/Projekty/Szkola/PP/Matrix_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Backup/Projekty/Szkola/PP/Matrix_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
